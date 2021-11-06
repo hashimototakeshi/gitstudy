@@ -1,1 +1,5 @@
 # gitstudy
+
+* a
+* b
+* c
